@@ -28,7 +28,7 @@ twitter_username: Daniel
 github_username:  EcksteinD
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
