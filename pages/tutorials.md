@@ -1,5 +1,5 @@
 layout: page
 title: "Tutorials"
-permalink: /
+permalink: /pages
 
 Auf dieser Seite sollen Posts erscheinen
