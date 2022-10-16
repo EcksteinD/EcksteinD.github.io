@@ -6,5 +6,6 @@ layout: default
 ---
 
 # Das ist die Homepage
-Ich möchte jetzt wissen, ob es A4 ist durch das Centerad awdawdawdawdawdawdadawdadawdawdawdasdawdasdawdawdasdawdasdawwdawsdawdasdawd\\
+Ich möchte jetzt wissen, ob es A4 ist durch das Centered\\
+awdawdawdawdawdawdadawdadawdawdawdasdawdasdawdawdasdawdasdawwdawsdawdasdawd\\
 so jetzt ist es größer. Macht es automatisch Zeilenumbruch?
