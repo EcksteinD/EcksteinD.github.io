@@ -4,3 +4,5 @@
 title: Home
 layout: default
 ---
+
+Das ist die Homepage
