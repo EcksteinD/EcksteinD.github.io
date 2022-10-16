@@ -1,6 +1,6 @@
 ---
 layout: tutorials
 title: "Tutorial Test"
-permalink: /tutorial-test/
+permalink: /tutorials/tutorial-test/
 ---
 Das ist ein Beispieltutorial.
