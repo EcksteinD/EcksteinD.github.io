@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-permalink: /tutorials/
+permalink: /tutorials/home/
 redirect_from: /tutorials/index.html
 ---
 
