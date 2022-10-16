@@ -7,3 +7,6 @@
 - title: Tutorials
   link: /tutorials/
   show_on_mobile: true
+  title: Examples
+  link: /examples/
+  show_on_mobile: true
