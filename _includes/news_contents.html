@@ -24,7 +24,7 @@
     {% for post in site.posts -%}
       {% unless post.categories contains 'release' -%}
       <li {%- if page.title == post.title %} class="current" {%- endif %}>
-        <a href="{{ '/examples/welcome-to-filler' | relative_url }}">Welcome to filler!</a>
+        <a href="/examples/welcome-to-filler">Welcome to filler!</a>
       </li>
       {% endunless -%}
     {% endfor -%}
