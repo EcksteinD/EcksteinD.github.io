@@ -21,13 +21,7 @@
     </ul>
     <h4>Other News</h4>
     <ul>
-    {% for post in site.posts -%}
-      {% unless post.categories contains 'release' -%}
-      <li {%- if page.title == post.title %} class="current" {%- endif %}>
-        <a href="/examples/welcome-to-filler">Welcome to filler!</a>
-      </li>
-      {% endunless -%}
-    {% endfor -%}
+      <a href="/examples/welcome-to-filler">Welcome to filler!</a>
     </ul>
   </aside>
 </div>
