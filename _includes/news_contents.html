@@ -21,7 +21,9 @@
     </ul>
     <h4>Other News</h4>
     <ul>
-      <a href="/examples/welcome-to-filler">Welcome to filler!</a>
+      <li {%- if page.title == post.title %} class="current" {%- endif %}>
+        <a href="/examples/welcome-to-filler">Welcome to filler!</a>
+      </li>
     </ul>
   </aside>
 </div>
