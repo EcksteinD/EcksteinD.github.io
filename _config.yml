@@ -6,17 +6,26 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is here to inform you about Opaque Cubes and how they can be used here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Daniel
-github_username:  EcksteinD
-
-# Build settings
+github:
+    username:  EcksteinD
 theme: minima
 plugins:
   - jekyll-feed
-
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
 defaults:
 - scope:
     path: _docs
     type: docs
   values:
     layout: tutorials
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
