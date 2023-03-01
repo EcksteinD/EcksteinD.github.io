@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: "Tutorials"
 permalink: /tutorials/
 redirect_from:
  - /tutorials/how-to-add-tutorials/
