@@ -1,5 +1,6 @@
 ---
-title: Tutorials
+layout: tutorials
+title: "Tutorials"
 permalink: /docs/
 ---
 Diese Seite soll später Links zu den eigentlichen Tutorial Seiten enthalten
