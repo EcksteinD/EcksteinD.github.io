@@ -2,10 +2,10 @@
   <aside>
     <ul>
       <li {%- if page.title == 'News' %} class="current" {%- endif %}>
-        <a href="{{ '/examples/' | relative_url }}">All News</a>
+        <a href="{{ '/examples/' | relative_url }}">News Example</a>
       </li>
       <li {%- if page.title == 'Releases' %} class="current" {%- endif %}>
-        <a href="{{ '/examples/releases/' | relative_url }}">Filler Releases</a>
+        <a href="{{ '/examples/tutorials-example/' | relative_url }}">Tutorials Example</a>
       </li>
     </ul>
     <h4>Recent Releases</h4>
@@ -22,7 +22,7 @@
     <h4>Other News</h4>
     <ul>
       <li {%- if page.title == post.title %} class="current" {%- endif %}>
-        <a href="/examples/welcome-to-filler">Welcome to filler!</a>
+        <a href="/examples/news-item-example/">News Item Example</a>
       </li>
     </ul>
   </aside>
