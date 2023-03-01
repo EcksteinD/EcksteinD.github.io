@@ -26,7 +26,7 @@ defaults:
     layout: docs
 - scope:
     path: _examples
-    type: docs
+    type: examples
   values:
     layout: docs
 plugins:
