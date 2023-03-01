@@ -1,14 +1,6 @@
-- title: Tutorials
+- title: tutorials
   tutorials:
   - how-to-add-tutorials
-  - home
-  - video-walkthroughs
-  - navigation
-  - orderofinterpretation
-  - custom-404-page
-  - convert-site-to-jekyll
-  - using-jekyll-with-bundler
-  - csv-to-table
 
 #- title: Another section
 #  tutorials:
