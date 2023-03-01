@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title:  "News Item Example"
-date:   Here stands the release date
+date:   "2023-03-01 12:56:00 +0200"
 categories: Here stands the categorie
 permalink: /examples/news-item-example/
 ---
