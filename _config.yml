@@ -20,7 +20,7 @@ defaults:
     path: _docs
     type: docs
   values:
-    layout: tutorials
+    layout: docs
 plugins:
 - jekyll-avatar
 - jekyll-feed
