@@ -3,7 +3,7 @@ title: Dokumentation über die Verwendung von Opaque Würfeln
 layout: page
 ---
 Hallo Leser\*innen,\
-Diese Website widmet sich der Dokumentation zum Einrichten und Verwendung\
+Diese Website widmet sich der Dokumentation zum Einrichten und der Verwendung\
 einer Arbeitsumgebung für Opaque Datenwürfel mit Hilfe von SQLite.\
 \
 Unter [Tutorials](https://ecksteind.github.io/docs/) kannst du verschiedene Tutorials zu diesem Thema finden.\
